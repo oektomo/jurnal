@@ -1,0 +1,13 @@
+fitur battery charging
+
+
+fitur inverter
+Proteksi arus output lebih
+Heatsink
+Kipas - sensor suhu
+Pembatas arus balik Output
+
+Indikator nyala-mati
+Indikator beban
+Indikator fuse putus
+
