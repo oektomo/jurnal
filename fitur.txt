@@ -1,10 +1,11 @@
-fitur battery charging
+ritur battery charging
 
 
 fitur inverter
 Proteksi arus output lebih
 Heatsink
-Kipas - sensor suhu
+- Kipas 
+- sensor suhu coba ganti OpAmp dari 741 ke 84/74!
 Pembatas arus balik Output
 
 Indikator nyala-mati
